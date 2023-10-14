@@ -13,8 +13,6 @@ a {
 header {
   width: 100%;
   height: auto;
-  border-radius: 15px;
-  background-color: aqua;
 }
 
 header nav {
@@ -34,7 +32,7 @@ header nav .nav-right-section {
 .nav-right-section a {
   color: black;
   margin: 0px 10px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 nav .nav-right-section .menu-icon {
@@ -64,7 +62,14 @@ main .main-logo {
   margin-bottom: 35px;
 }
 
-main .main-logo img {
-  height: 92px;
-  width: 272px;
+
+
+main .main-input{
+  width: 530px;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+main .main-input-container{
+  
 }
